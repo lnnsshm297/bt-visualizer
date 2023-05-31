@@ -1,3 +1,6 @@
+#this is version i worked on long ago 
+#I'll be updating the actual webpage for this visualizer soon
+
 import tkinter as tk
 
 class Node:
