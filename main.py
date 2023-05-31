@@ -109,5 +109,5 @@ class BinaryTreeVisualizer:
                 self.canvas.create_line(x, y, x_right, y_right)
                 self.draw_tree(node.right, x_right, y_right, h_gap // 2)
 
-# Create an instance of the binary tree visualizer
+# Creates an instance of the binary tree visualizer
 binary_tree_visualizer = BinaryTreeVisualizer()
